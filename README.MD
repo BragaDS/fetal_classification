@@ -4,6 +4,17 @@
 
 This project focuses on developing a machine learning model to predict fetal health based on features extracted from Cardiotocogram (CTG) exams. The dataset contains 2126 records, and the goal is to classify fetal health into three classes: Normal, Suspect, and Pathological.
 
+## Target Variable
+
+The target variable in this dataset is the fetal health classification, which has three distinct classes:
+
+- **Normal:** Represents cases where fetal health is within the normal range.
+- **Suspect:** Indicates cases with a suspicion of potential health issues.
+- **Pathological:** Identifies cases with clear signs of fetal health pathology.
+
+The goal of this project is to develop a machine learning model that accurately classifies fetal health based on the features extracted from Cardiotocogram exams.
+
+
 ## Notebook
 
 - `fetal_health.ipynb`: Jupyter Notebook for the entire project, including data exploration, preprocessing, model training, evaluation, and visualization.
