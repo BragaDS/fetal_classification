@@ -8,9 +8,9 @@ This project focuses on developing a machine learning model to predict fetal hea
 
 The target variable in this dataset is the fetal health classification, which has three distinct classes:
 
-- **Normal:** Represents cases where fetal health is within the normal range.
-- **Suspect:** Indicates cases with a suspicion of potential health issues.
-- **Pathological:** Identifies cases with clear signs of fetal health pathology.
+- **1 - Normal:** Represents cases where fetal health is within the normal range.
+- **2 - Suspect:** Indicates cases with a suspicion of potential health issues.
+- **3 - Pathological:** Identifies cases with clear signs of fetal health pathology.
 
 The goal of this project is to develop a machine learning model that accurately classifies fetal health based on the features extracted from Cardiotocogram exams.
 
